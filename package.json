@@ -1,0 +1,13 @@
+{
+  "name": "contagem-inventario",
+  "version": "2.0.0",
+  "description": "Contagem de estoque simultânea com acompanhamento em tempo real",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
